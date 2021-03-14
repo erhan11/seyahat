@@ -38,6 +38,6 @@ ul {
 .logoitem {
 display: flex;
 justify-content: flex-end;
-margin-right:10%;
+width: 100%;
 size: 100px;
 } 
